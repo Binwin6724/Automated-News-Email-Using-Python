@@ -71,7 +71,7 @@ for link in links:
 print("All PDF files downloaded")
 download_date = str(month)+"_"+str(day)+"_"+str(year)
 email = 'minnadailynews@outlook.com'
-password = 'Jesusislove@6724'
+password = 'password'
 send_to_email = ['binwinviju225096@gmail.com', 'tjminna@gmail.com']
 subject = 'Minna Daily News on '+date_time
 message = """\
